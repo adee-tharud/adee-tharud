@@ -4,7 +4,7 @@
 
 ### :woman_technologist: About Me :
 I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sri Lanka.
-- :telescope: I’m Software Engineering final year student.
+- :telescope: I’m pursuing a degree in ICBT Campus.
 - :zap: contributing to frontend and backend for building web applications.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Adeesha-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adessha-tharud-9482bb1b3/)
 
